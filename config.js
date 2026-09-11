@@ -13,14 +13,14 @@ const CONFIG = {
     SCHOOL_SUBTITLE: '國小部課表查詢系統',
 
     PERIOD_TIMES: [
-        { start: '07:40', end: '08:10', label: '早自習' },
-        { start: '08:20', end: '09:00' },
-        { start: '09:10', end: '09:50' },
-        { start: '10:10', end: '10:50' },
-        { start: '11:00', end: '11:40' },
-        { start: '13:30', end: '14:10' },
-        { start: '14:20', end: '15:00' },
-        { start: '15:10', end: '15:50' },
-        { start: '16:00', end: '16:40' },
+        { start: '07:50', end: '08:35', label: '晨光、導師、集會時間' },
+        { start: '08:40', end: '09:20' },
+        { start: '09:30', end: '10:10' },
+        { start: '10:25', end: '11:05' },
+        { start: '11:15', end: '11:55' },
+        { start: '13:10', end: '13:50' },
+        { start: '14:10', end: '14:50' },
+        { start: '15:00', end: '15:40' },
+        { start: '15:50', end: '16:30' },
     ],
 };
